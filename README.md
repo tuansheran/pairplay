@@ -45,7 +45,7 @@ It’s like a digital deck of couple-friendly ideas — playful, surprising, and
 ## 🚀 Live Preview
 
 📱 Coming soon to Google Play and iOS App Store  
-🌐 Visit the live homepage: [https://yourusername.github.io/pair-play](https://yourusername.github.io/pair-play)
+🌐 Visit the live homepage: [https://tuansheran.github.io/pair-play](https://yourusername.github.io/pair-play)
 
 ---
 
@@ -75,7 +75,7 @@ It’s not about tracking or texting — it’s about playing, together.
 
 Pull requests are welcome!  
 For major changes, please open an issue first to discuss what you'd like to change.  
-You can also reach out on GitHub or email: **your.email@example.com**
+You can also reach out on GitHub or email: **sherantuanbuckman@gmail.com**
 
 ---
 
