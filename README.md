@@ -45,7 +45,7 @@ It’s like a digital deck of couple-friendly ideas — playful, surprising, and
 ## 🚀 Live Preview
 
 📱 Coming soon to Google Play and iOS App Store  
-🌐 Visit the live homepage: [https://tuansheran.github.io/pair-play](https://yourusername.github.io/pair-play)
+🌐 Visit the live homepage: [https://tuansheran.github.io/pair-play](https://yourusername.github.io/pairplay)
 
 ---
 
