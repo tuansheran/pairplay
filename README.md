@@ -76,6 +76,17 @@ It’s not about tracking or texting — it’s about playing, together.
 Pull requests are welcome!  
 For major changes, please open an issue first to discuss what you'd like to change.  
 You can also reach out on GitHub or email: **sherantuanbuckman@gmail.com**
+---
+
+## 🔐 Privacy & Terms
+
+Your privacy and trust are important to us. Please review our official policies below:
+
+- [Privacy Policy](https://tuansheran.github.io/Pair-Play-Documentation-Of-Privacy/)
+- [Terms & Conditions](https://tuansheran.github.io/Pair-Play-Documentation-Of-Terms/)
+
+By using Pair Play, you agree to these terms.
+
 
 ---
 
